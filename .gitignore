@@ -5,6 +5,6 @@
 /.vs/EcommerceMVC
 .vs/ProjectEvaluation/ecommercemvc.metadata.v8.bin
 # tất cả file trong thư mục debug sẽ không được commit
-/EcommerceMVC/bin/Debug/
-/EcommerceMVC/obj/
+/EcommerceMVC/bin/Debug
+/EcommerceMVC/obj
 
