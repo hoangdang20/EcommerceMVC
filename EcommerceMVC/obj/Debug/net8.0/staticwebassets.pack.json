@@ -37,6 +37,490 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\KhachHang\\Author.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachHang\\Author.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\KhachHang\\Penguins.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\KhachHang\\android_300200.png",
+      "PackagePath": "staticwebassets\\img\\KhachHang\\android_300200.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\KhachHang\\man.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachHang\\man.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\KhachHang\\woman.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachHang\\woman.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai11.jpeg",
+      "PackagePath": "staticwebassets\\img\\Loai11.jpeg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Accept.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Accept.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Alarm.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Alarm.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Anchor.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Anchor.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Bell.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Bell.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Best.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Best.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Billboard.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Billboard.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Bomb.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Bomb.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Brick house.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Brick house.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Bricks.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Bricks.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Buddy.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Buddy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Certificate.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Certificate.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Dice.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Dice.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Dollar.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Dollar.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Favourites.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Favourites.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Funny.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Funny.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Heart.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Heart.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Microsoft.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Microsoft.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\Unlock.png",
+      "PackagePath": "staticwebassets\\img\\Loai\\Unlock.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loai\\agenda_1.jpg",
+      "PackagePath": "staticwebassets\\img\\Loai\\agenda_1.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Loaiimages.jpeg",
+      "PackagePath": "staticwebassets\\img\\Loaiimages.jpeg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\Acer_logo-300x300.gif",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\Acer_logo-300x300.gif"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\amd-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\amd-logo.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\apple.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\apple.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\dell-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\dell-logo.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\dell-logo2.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\dell-logo2.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\hp-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\hp-logo.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\intel-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\intel-logo.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\motorola.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\motorola.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\nokia.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\nokia.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\samsung-logo-2.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\samsung-logo-2.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\samsung.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\samsung.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\shopping_cart.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\NhaCC\\sonny-ericsson.jpg",
+      "PackagePath": "staticwebassets\\img\\NhaCC\\sonny-ericsson.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Others\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\img\\Others\\shopping_cart.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\1009.gif",
+      "PackagePath": "staticwebassets\\img\\Products\\1009.gif"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\21meTyhQebL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\21meTyhQebL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31EPGSm2s1L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31EPGSm2s1L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31LAnW1JFqL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31LAnW1JFqL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31TB6tC6BOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31TB6tC6BOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31YOss-gC-L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31YOss-gC-L._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31hCgES5GXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31hCgES5GXL._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31ioCUUFnoL.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31ioCUUFnoL.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31jsjfVfH9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31jsjfVfH9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31ncPnMYCxL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31ncPnMYCxL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31pAGovVENL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31pAGovVENL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31pT+SdvQXL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31pT+SdvQXL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\31yxRemzRLL._SS350_ (1).jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\31yxRemzRLL._SS350_ (1).jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41-yvkFqVZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41-yvkFqVZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\410PjzqoC8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\410PjzqoC8L._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\415cOCbey.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\415cOCbey.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\415cOCbeyML.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\415cOCbeyML.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\416OcTXFfeL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\416OcTXFfeL._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\416pdroSEkL.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\416pdroSEkL.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\419WCoqfamL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\419WCoqfamL._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41A9R5KXCXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41A9R5KXCXL._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41BiMx1FKyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41BiMx1FKyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41CIcYRxJKL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41CIcYRxJKL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41G38jC0ajL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41G38jC0ajL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41GVLtgNngL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41GVLtgNngL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41IPLmZIKhL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41IPLmZIKhL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41KALboJKuL.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41KALboJKuL.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41LMouG6j7L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41LMouG6j7L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41MJUdI2jdL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41MJUdI2jdL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41Pg1ahql8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41Pg1ahql8L._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41RxtSQOd2L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41RxtSQOd2L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41TexqWVkHL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41TexqWVkHL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41V4Ds2PtZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41V4Ds2PtZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41WvZnGYUkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41WvZnGYUkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41XX7Pi240L.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41XX7Pi240L.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41Ymq8fjbOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41Ymq8fjbOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41Z43OmFHjL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41Z43OmFHjL._SX342_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41ZE9SmWdzL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41ZE9SmWdzL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41brDHtPY9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41brDHtPY9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41iDo0HDhbL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41iDo0HDhbL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41iji4-9UsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41iji4-9UsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41lffECD-sL._SY445_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41lffECD-sL._SY445_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41qfgTvFBwL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41qfgTvFBwL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41qlcUEhNmL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41qlcUEhNmL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41riQRGf-6L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41riQRGf-6L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41sd2DTD8EL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41sd2DTD8EL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41sdBTtnUDL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41sdBTtnUDL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41sl3FN6NpL.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41sl3FN6NpL.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41sw9ASUvBL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41sw9ASUvBL._SX342_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41w4TlVPhGL.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41w4TlVPhGL.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41wHu2N4tVL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41wHu2N4tVL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41yh1vBmqsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41yh1vBmqsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\41zxxR71G+L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\41zxxR71G+L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51+4d3VBFvL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51+4d3VBFvL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\513UnnRfFML._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\513UnnRfFML._SL1001_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\515p1IeP0-L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\515p1IeP0-L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\5195-l+nflL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\5195-l+nflL._AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51GBNkHO6vL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51GBNkHO6vL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51JhyHtnEgL._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51JhyHtnEgL._SL1001_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51Lj5bxbNtL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51Lj5bxbNtL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51Z9tfgl4aL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51Z9tfgl4aL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51czOOat0OL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51czOOat0OL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51l46qQB50L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51l46qQB50L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51nukXFJLJL.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51nukXFJLJL.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51pvLIvb6ZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51pvLIvb6ZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51s6pbRlNyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51s6pbRlNyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51uJ-pWfc9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51uJ-pWfc9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51vxcBS1sQL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51vxcBS1sQL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51w+JqOnmSL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51w+JqOnmSL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51y46IslQkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51y46IslQkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\51yomC0EodL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\51yomC0EodL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\71bJrFAys9L._SL1280_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\71bJrFAys9L._SL1280_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\71cBwWAgvIL._SL1430_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\71cBwWAgvIL._SL1430_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\816zGZv1ORL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\816zGZv1ORL._SL1500_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\81Q1DvOnnoL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\81Q1DvOnnoL._SL1500_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\81k1XbQ6nQL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\81k1XbQ6nQL._SL1500_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\91FM0Hog9FL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\91FM0Hog9FL._SL1500_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\91JUBDf1jTL._AA1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\91JUBDf1jTL._AA1500_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\91T2BjUkYmL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\91T2BjUkYmL._SL1500_.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\Camera1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\Camera1.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\Products\\To.gif",
+      "PackagePath": "staticwebassets\\img\\Products\\To.gif"
+    },
+    {
       "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },
@@ -75,6 +559,10 @@
     {
       "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\divider.gif",
+      "PackagePath": "staticwebassets\\img\\divider.gif"
     },
     {
       "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\featur-1.jpg",
@@ -123,6 +611,718 @@
     {
       "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\hero-img.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Accept.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Accept.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Add to basket.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Add to basket.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Add.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Add.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Address book.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Address book.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Alarm.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Alarm.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Anchor.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Anchor.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Application form.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Application form.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bar chart.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bar chart.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Basket.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Basket.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bell.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bell.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Best.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Best.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Billboard.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Billboard.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bluetooth.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bluetooth.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bomb.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bomb.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Book.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Book.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bookmark.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bookmark.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Box.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Box.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Boy.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Boy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Brick house.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Brick house.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bricks.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bricks.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Brief case.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Brief case.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Brightness.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Brightness.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Bubble.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Bubble.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Buddy.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Buddy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Cable.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Cable.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Calculator.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Calculator.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Calendar.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Calendar.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Call.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Call.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Camera.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Camera.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Card file.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Card file.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Cash register.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Cash register.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Cat.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Cat.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Certificate.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Certificate.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Clien list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Clien list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Clipboard.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Clipboard.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Clock.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Clock.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Closed door.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Closed door.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Closed folder.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Closed folder.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Coin.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Coin.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Coins.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Coins.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Color wheel.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Color wheel.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Comment.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Comment.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Comments.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Comments.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Company.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Company.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Computer.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Computer.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Conference.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Conference.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Connect.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Connect.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Construction.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Construction.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Contrast.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Contrast.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Control panel.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Control panel.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Create.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Create.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Database.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Database.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Date.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Date.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Delete.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Delete.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Desktop.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Desktop.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Diagram.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Diagram.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Dice.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Dice.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Disconnect.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Disconnect.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Discussion.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Discussion.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Document.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Document.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Documents.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Documents.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Dog.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Dog.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Dollar.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Dollar.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Down.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Down.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Download.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Download.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Edit.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Edit.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Euro.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Euro.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Exit button.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Exit button.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Exit.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Exit.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Favourites.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Favourites.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Fax.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Fax.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Flash drive.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Flash drive.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Flow block.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Flow block.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Free.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Free.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Friends.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Friends.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Full basket.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Full basket.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Funny.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Funny.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Game controller.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Game controller.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Gear.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Gear.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Genealogy.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Genealogy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Gift.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Gift.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Girl.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Girl.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Globe.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Globe.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Handshake.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Handshake.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Happy.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Happy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Hard disk.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Hard disk.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Heart.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Heart.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Help.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Help.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Hierarchy.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Hierarchy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Home.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Home.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Hungup.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Hungup.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Industry.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Industry.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Info.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Info.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Key.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Key.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Label.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Label.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Left.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Left.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Lego brick.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Lego brick.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Letter.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Letter.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\List.png",
+      "PackagePath": "staticwebassets\\img\\icons\\List.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Lists.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Lists.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Lock.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Lock.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Log out.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Log out.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Login.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Login.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Mail.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Mail.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Microsoft.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Microsoft.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Mobile phone.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Mobile phone.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Money.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Money.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Monitor.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Monitor.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Mouse.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Mouse.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Music.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Music.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\No.png",
+      "PackagePath": "staticwebassets\\img\\icons\\No.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Notes.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Notes.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Numbered list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Numbered list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\OK.png",
+      "PackagePath": "staticwebassets\\img\\icons\\OK.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Online.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Online.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Open door.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Open door.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Open file.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Open file.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Open folder.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Open folder.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Open letter.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Open letter.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Open lock.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Open lock.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Payment.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Payment.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Peace.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Peace.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Pets.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Pets.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Phone.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Phone.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Piggy bank.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Piggy bank.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Piggy.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Piggy.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Pointer.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Pointer.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Pound.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Pound.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Price list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Price list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Print preview.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Print preview.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Print.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Print.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Printer.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Printer.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Problem.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Problem.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Properties.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Properties.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\RSS.png",
+      "PackagePath": "staticwebassets\\img\\icons\\RSS.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Red star.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Red star.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Refresh.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Refresh.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Remove from basket.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Remove from basket.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Report.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Report.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Right.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Right.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Rouble.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Rouble.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Sad.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Sad.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Safe.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Safe.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Save as.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Save as.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Save.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Save.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Scroll list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Scroll list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Search.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Search.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Shield.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Smile.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Smile.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Software.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Software.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Statistics.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Statistics.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Stop.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Stop.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Task list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Task list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Telephone.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Telephone.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Text.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Text.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Tick.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Tick.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\To do list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\To do list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Trash.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Trash.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Unknown person.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Unknown person.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Unlock.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Unlock.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Unordered list.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Unordered list.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Up.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Up.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Upload.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Upload.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\User group.png",
+      "PackagePath": "staticwebassets\\img\\icons\\User group.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\User.png",
+      "PackagePath": "staticwebassets\\img\\icons\\User.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Users.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Users.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Wallet.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Wallet.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Warning.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Warning.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Weather.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Weather.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Wireless.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Wireless.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Wizard.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Wizard.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Yen.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Yen.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Yin-Yang.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Yin-Yang.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Zoom in.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Zoom in.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Zoom out.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Zoom out.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\Zoom.png",
+      "PackagePath": "staticwebassets\\img\\icons\\Zoom.png"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\eng.gif",
+      "PackagePath": "staticwebassets\\img\\icons\\eng.gif"
+    },
+    {
+      "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\icons\\vit.gif",
+      "PackagePath": "staticwebassets\\img\\icons\\vit.gif"
     },
     {
       "Id": "G:\\Data\\ASP.NET\\Projects\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\payment.png",
