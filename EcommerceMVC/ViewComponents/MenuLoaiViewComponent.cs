@@ -19,7 +19,7 @@ namespace EcommerceMVC.ViewComponents
                 MaLoai = loai.MaLoai,
                 TenLoai = loai.TenLoai,
                 SoLuong = loai.HangHoas.Count
-            });
+            }).OrderBy(cmp => cmp.TenLoai).ToList();
             // Default.cshtml 
             return View("Default", items);
             //hoặc 

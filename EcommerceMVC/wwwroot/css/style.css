@@ -285,6 +285,10 @@
     color: var(--bs-white) !important; 
 }
 
+.fruite .tab-class .nav-item a.active button {
+        color: var(--bs-white) !important;
+}
+
 .fruite .fruite-categorie .fruite-name {
     line-height: 40px;
 }
