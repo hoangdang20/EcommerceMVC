@@ -5,6 +5,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add session
+builder.Services.AddDistributedMemoryCache();
+
+builder.Services.AddSession(option =>
+{
+	option.IdleTimeout = TimeSpan.FromMinutes(30);
+	option.Cookie.HttpOnly = true;
+	option.Cookie.IsEssential = true; 
+});
+
 // Add DbContext
 builder.Services.AddDbContext<Hshop2023Context>(option=> {
     option.UseSqlServer(builder.Configuration.GetConnectionString("connString"));
@@ -23,6 +34,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 
